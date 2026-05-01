@@ -1,0 +1,22 @@
+.contact{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    margin-top: 20px;
+    .contact-info{
+        margin-right: 50px;
+
+        .info-div{
+            margin-bottom: 20px;
+            i{
+                margin:2px 15px 0 0;
+                font-size: 25px;
+                color: #E5CDA6;
+            }
+        }
+    }
+
+  
+}
